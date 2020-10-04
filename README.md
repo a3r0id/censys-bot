@@ -12,7 +12,7 @@ Enjoy!
 + Your Bot's invite code
 + Your Censys.io User ID
 + Your Censys.io Secret Token
-+ Your bot's Discord Token
++ Your Discord bot Token
 + The ID of the Emoji you want the bot to react to messages with.
 
 ### Customizable Settings in your *Config.json*:
