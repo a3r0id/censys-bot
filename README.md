@@ -2,7 +2,9 @@
 
 This Discord bot utilizes Censys.io's IPV4 banner-grabbing worldscan API.
 
-Here is more information as to what a Censys query is
+Here is more information as to what a Censys query is [here](https://censys.io/ipv4/help).
+
+Enjoy!
 
 # Setup
 
