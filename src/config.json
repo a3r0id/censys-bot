@@ -1,0 +1,18 @@
+{
+    "prefix": "^",
+    "search_rate_limit_seconds": 30,
+    "presence_change_rate_seconds": 5,
+    "result_limit_if_reverse_dns": 25,
+    "invite_code": "YOUR_BOTS_OAUTH_INVITE",
+    "CENSYS_UID": "YOUR_CENSYS_USER_ID",
+    "CENSYS_SECRET": "YOUR_CENSYS_SECRET_TOKEN",
+    "discord_token": "YOUR_DISCORD_TOKEN",
+    "request_confirmation_emoji_id": 123456789101112,
+    "embed_color_hash": "0xfc7c3c",
+    "presences": [
+        "^help | Censys.io",
+        "The Only Bot Of Its Kind!",
+        "^help | Censys.io",
+        "By hostinfodev"
+    ]
+}
